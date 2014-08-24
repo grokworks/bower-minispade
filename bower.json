@@ -1,0 +1,18 @@
+{
+  "name": "minispade",
+  "version": "0.1.0",
+  "description": "Minispade Bower Package",
+  "main": "minispade.js",
+  "authors": [
+    "Hugo Castro"
+  ],
+  "license": "MIT",
+  "homepage": "http://desenvolve.grokworks.com.br/gitblit/tree/bower-minispade.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
