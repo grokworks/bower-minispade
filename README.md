@@ -1,7 +1,7 @@
-# bower-minispade
+## bower-minispade
 
 =======
-Minispade Bower Package
+# Minispade Bower Package
 
 Para instalar, basta executar o comando abaixo:
 
